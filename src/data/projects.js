@@ -1,18 +1,18 @@
 const projects = [
-    {title: "Photography Shop",
-        techStack: ["React"],
-        description: "Photography Print Shop with Augmented Reality",
-        link: "resilientcoders.org"
+    {title: "hit.it!",
+        techStack: ["MongoDB", "Express.js", "EJS", "Node.js"],
+        description: "A Musical Hub for Producers to Collaborate",
+        link: "https://hitit.up.railway.app/"
     },
-    {title: "RC Submit",
-        techStack: ["React", "HTML", "CSS"],
+    {title: "Kinfolx",
+        techStack: ["React", "MongoDB", "Express.js", "Node.js"],
         description: "Submission Platform",
-        link: "resilientcoders.org"
+        link: "https://kinfolx-production.up.railway.app/"
     },
-    {title: "Jira Plug",
-        techStack: ["Javascript", "Node.JS"],
+    {title: "My Budget Buddy",
+        techStack: ["MongoDB", "Express.js", "EJS", "Node.js"],
         description: "Custom Jira Plugin",
-        link: "resilientcoders.org"
+        link: "https://mybudgetapp.up.railway.app/"
     }
 ]
 
