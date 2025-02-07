@@ -14,7 +14,7 @@ const toggleDarkMode = () => {
     <div className={darkMode ? 'dark' : 'light'}>
       <header>
         <h1>Waskar Miguel Paulinos Portfolio</h1>
-        <button onClick={toggleDarkMode}>{darkMode ? 'Light Mode' : 'Dark Mode'}</button>
+        <button className="bg-blue-300 hover:bg-blue-700 text-white font-bold py-1 px-3 rounded-full" onClick={toggleDarkMode}>{darkMode ? 'Light Mode' : 'Dark Mode'}</button>
       </header>
       <main>
         <AboutMe/>
